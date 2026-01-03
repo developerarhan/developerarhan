@@ -70,6 +70,8 @@ Problem-solving applications built in teams
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=developerarhan&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=developerarhan&theme=tokyonight)
+
 ---
 
 ## 🤝 Connect With Me
